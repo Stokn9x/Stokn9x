@@ -9,8 +9,6 @@
 
 ###
 
-<p>📫 How to reach me: Mail: Capper2704@hotmail.dk or Discord: stokn9x</p><br>
-
 <h3 align="left">Bio :</h3>
 <p>Hi, I'm Casper, a 24-year-old newly graduated computer scientist. I work as a part-time backend developer at Computation ApS and am currently involved in a project for a housing company. I'm actively looking for a full-time position. In my free time, I’m developing an esports stats system. When I’m not coding, I enjoy hiking, working out, gaming, and spending time with friends.</p>
 <h3 align="left">🛠️ Languages and Tools :</h3>
