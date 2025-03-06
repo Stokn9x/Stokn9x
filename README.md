@@ -9,9 +9,11 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: A esport team stats calculator<br>🌱 I’m currently a: Computer Science<br>📫 How to reach me: Mail: Capper2704@hotmail.dk or Discord: stokn9x<br>⚡ In my free time I: Love hiking and playing video games</p>
+<p align="left">🔭 I’m currently working on: A esport team stats calculator<br>🌱 I’m currently a: Computer Science<br>📫 How to reach me: Mail: Capper2704@hotmail.dk or Discord: stokn9x</p>
 
 ###
+
+<h3 align="left">Bio :</h3>
 
 <h3 align="left">🛠️ Languages and Tools :</h3>
 
