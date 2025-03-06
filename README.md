@@ -10,7 +10,27 @@
 ###
 
 <h3 align="left">Bio :</h3>
-<p>Hi, I'm Casper, a 24-year-old newly graduated computer scientist. I work as a part-time backend developer at Computation ApS and am currently involved in a project for a housing company. I'm actively looking for a full-time position. In my free time, I’m developing an esports stats system. When I’m not coding, I enjoy hiking, working out, gaming, and spending time with friends.</p>
+<ul>
+  <li>👨‍💻 <strong>Current Role:</strong><br>
+    - Part-time <strong>Backend Developer</strong> at <strong>Computation ApS</strong><br>
+    - Working on a <strong>housing company project</strong>
+  </li>
+
+  <li>🚀 <strong>Looking for:</strong><br>
+    - Actively seeking a <strong>full-time position</strong>
+  </li>
+
+  <li>🎮 <strong>Personal Projects:</strong><br>
+    - Developing an <strong>esports stats system</strong>
+  </li>
+
+  <li>🌲 <strong>Hobbies & Interests:</strong><br>
+    - Hiking 🥾<br>
+    - Working out 💪<br>
+    - Gaming 🎮<br>
+    - Spending time with friends 👥
+  </li>
+</ul>
 <h3 align="left">🛠️ Languages and Tools :</h3>
 
 ###
