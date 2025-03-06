@@ -67,10 +67,3 @@
 
 <img src="https://raw.githubusercontent.com/Stokn9x/Stokn9x/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stokn9x&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
