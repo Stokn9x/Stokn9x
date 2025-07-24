@@ -12,9 +12,8 @@
 <h3 align="left">Bio :</h3>
 <ul>
   <li>👨‍💻 <strong>Current Role:</strong><br>
-    - Part-time <strong>Backend Developer</strong> at <strong>Computation ApS</strong><br>
-    - Working on a <strong>housing company project</strong>
-  </li>
+    - Full Time <strong>It Consultant</strong> at <strong>Copenhagen Data</strong><br>
+    </li>
 
   <li>🚀 <strong>Looking for:</strong><br>
     - Actively seeking a <strong>full-time position</strong>
