@@ -15,10 +15,6 @@
     - Full Time <strong>It Consultant</strong> at <strong>Copenhagen Data</strong><br>
     </li>
 
-  <li>🚀 <strong>Looking for:</strong><br>
-    - Actively seeking a <strong>full-time position</strong>
-  </li>
-
   <li>🎮 <strong>Personal Projects:</strong><br>
     - Developing an <strong>esports stats system</strong>
   </li>
