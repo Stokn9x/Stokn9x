@@ -16,7 +16,7 @@
     </li>
 
   <li>🎮 <strong>Personal Projects:</strong><br>
-    - Developing an <strong>esports stats system</strong>
+    - Developing an <strong>mealplan system</strong>
   </li>
 
   <li>🌲 <strong>Hobbies & Interests:</strong><br>
